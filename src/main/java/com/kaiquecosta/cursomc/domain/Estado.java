@@ -38,11 +38,9 @@ public class Estado implements Serializable{
 		this.estado = estado;
 	}
 	
-	
 	/*
 	 * Getters e Seters Estado
 	 */
-	
 	
 	public Integer getId() {
 		return id;
